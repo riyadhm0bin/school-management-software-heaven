@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/midtrans" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/midtrans/tests" isTestSource="true" packagePrefix="Midtrans" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/midtrans/tests/integration" isTestSource="false" packagePrefix="Midtrans" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/mpdf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/mpdf/mpdf/mpdf/src" isTestSource="false" packagePrefix="Mpdf" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/mpdf/myclabs/deep-copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/mpdf/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/application/third_party/phpmailer" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
